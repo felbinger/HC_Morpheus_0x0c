@@ -4,4 +4,4 @@ Hacking Challenge 0x0c for the YouTuber [The Morpheus Tutorials](https://www.you
 
 - [Announcement Video](https://www.youtube.com/watch?v=SFal_EaxA_E)
 
-- [Solution Video](https://www.youtube.com/)
+- [Solution Video](https://www.youtube.com/watch?v=O4MfDFbtY40)
