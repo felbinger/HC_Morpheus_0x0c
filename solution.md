@@ -57,4 +57,4 @@ Eine interne (nicht lokale) IP Adresse ist bestimmten Adressbereichen zuzuweisen
 ```
 Die kleinste Adresse eines Adressbereiches ist die Netzadresse, die größte die Broadcast Adresse. Daher können manche von den gefundenen Adressen ausgeschlossen werden.
 
-Die letzte übrig bleibende IP Adresse ist die `172.19.0.6` 
+Die letzte übrig bleibende IP Adresse ist die `192.168.101.253` 
